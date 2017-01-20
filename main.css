@@ -1,0 +1,72 @@
+/*font-family: 'Overpass Mono', monospace;
+font-family: 'Bungee', cursive;
+font-family: 'BioRhyme', serif;
+font-family: 'Creepster', cursive;
+font-family: 'Gravitas One', cursive;*/
+
+#dish {
+	background-color: blue;
+	font-family: 'Overpass Mono', monospace;
+	font-size: 1.1em;
+	color: white;
+	line-height: 1.5em;
+	padding: 2px;
+	border: 7px dotted pink;
+	border-radius: 100px;
+
+}
+
+#dish p, h2, footer{
+	max-width: 80%;
+	margin: auto;
+}
+#nes {
+	background-color: lightgrey;
+	font-family: 'BioRhyme' serif;
+	font-size: 1.6em;
+	color: red;
+	line-height: 1.6em;
+	padding: 4px;
+	border: 9px dashed darkgrey;
+	border-radius: 3px;
+
+}
+
+#mouth {
+	background-color: #763626;
+	font-family: 'Bungee', cursive;
+	font-size: 2em;
+	color: #fdfffd;
+	line-height: 2em;
+	padding: 5px;
+	border: 2px solid orange;
+	border-radius: 10px;
+
+}
+
+#dish {
+	background-color: blue;
+	font-family: 'Overpass Mono', monospace;
+	font-size: 1.1em;
+	color: white;
+	line-height: 1.5em;
+	padding: 2px;
+	border: 7px dotted pink;
+	border-radius: 100px;
+
+}
+
+#dish {
+	background-color: blue;
+	font-family: 'Overpass Mono', monospace;
+	font-size: 1.1em;
+	color: white;
+	line-height: 1.5em;
+	padding: 2px;
+	border: 7px dotted pink;
+	border-radius: 100px;
+
+}
+
+
+
